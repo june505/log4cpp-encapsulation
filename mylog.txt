@@ -1,0 +1,59 @@
+2015-07-30 11:36:55,797: INFO  :Mylog create success
+2015-07-30 11:36:55,798: ERROR  :hello, world
+2015-07-30 11:38:24,549: INFO  :Mylog create success
+2015-07-30 11:38:24,551: ERROR  :hello, world
+2015-07-30 11:38:24,552: INFO  :Mylog destroy
+2015-07-30 11:41:35,924: INFO  :Mylog create success
+2015-07-30 11:41:35,924: ERROR  :hello, world
+2015-07-30 11:41:35,924: INFO  :Mylog destroy
+2015-07-30 11:42:47,864: INFO  :Mylog create success
+2015-07-30 11:42:47,864: ERROR  :hello, world
+2015-07-30 11:42:47,865: INFO  :Mylog destroy
+2015-07-30 11:43:17,255: INFO  :Mylog create success
+2015-07-30 11:43:17,256: ERROR  :hello, world
+2015-07-30 11:43:17,256: INFO  :Mylog destroy
+2015-07-30 11:44:48,818: INFO  :Mylog create success
+2015-07-30 11:44:48,819: ERROR  :hello, world
+2015-07-30 11:44:48,819: INFO  :Mylog destroy
+2015-07-30 11:45:02,904: INFO  :Mylog create success
+2015-07-30 11:45:02,905: ERROR  :hello, world
+2015-07-30 11:45:02,905: INFO  :Mylog destroy
+2015-07-30 11:47:04,864: INFO  :Mylog create success
+2015-07-30 11:47:04,865: ERROR  :hello, world
+2015-07-30 11:47:04,866: INFO  :Mylog destroy
+2015-07-30 14:27:59,853: INFO  :Mylog create success
+2015-07-30 14:27:59,856: INFO  :Mylog destroy
+2015-07-30 14:41:53,672: INFO  :Mylog create success
+2015-07-30 14:41:53,674: ERROR  :hello,world[test_log.cc:main:26]
+2015-07-30 14:41:53,674: INFO  :Mylog destroy
+2015-07-30 14:43:16,866: INFO  :Mylog create success
+2015-07-30 14:43:16,867: ERROR  :hello,world##test_log.cc:main:26##
+2015-07-30 14:43:16,868: INFO  :Mylog destroy
+2015-07-30 14:43:35,568: INFO  :Mylog create success
+2015-07-30 14:43:35,569: ERROR  :hello,world ##test_log.cc:main:26##
+2015-07-30 14:43:35,570: INFO  :Mylog destroy
+2015-07-30 14:47:30,003: INFO  :Mylog create success
+2015-07-30 14:47:30,004: ERROR  :hello,world ##test_log.cc:main:14##
+2015-07-30 14:47:30,005: WARN  :warn message ##test_log.cc:main:15##
+2015-07-30 14:47:30,006: INFO  :Mylog destroy
+2015-07-30 14:51:40,103: INFO  :Mylog create success
+2015-07-30 14:51:40,104: ERROR  :hello,world ##test_log.cc:main:15##
+2015-07-30 14:51:40,105: WARN  :warn message ##test_log.cc:main:16##
+2015-07-30 14:51:40,106: ERROR  :hello ##func.cc:func:14##
+2015-07-30 14:51:40,107: INFO  :Mylog destroy
+2015-07-30 14:56:21,006: INFO  :Mylog create success
+2015-07-30 14:56:21,008: ERROR  :hello,world ##test_log.cc:main:15##
+2015-07-30 14:56:21,009: WARN  :warn message ##test_log.cc:main:16##
+2015-07-30 14:56:21,010: INFO  :Mylog destroy
+2015-07-30 15:01:23,732: INFO  :Mylog create success
+2015-07-30 15:01:23,733: ERROR  :hello,world! ##test_log.cc:main:17##
+2015-07-30 15:01:23,734: WARN  :hello,world ##test_log.cc:main:18##
+2015-07-30 15:01:23,735: INFO  :hello,world ##test_log.cc:main:19##
+2015-07-30 15:01:23,735: DEBUG  :hello,world ##test_log.cc:main:20##
+2015-07-30 15:01:23,736: INFO  :Mylog destroy
+2015-07-30 15:03:07,549: INFO  :Mylog create success
+2015-07-30 15:03:07,550: ERROR  :hello,world! ##test_log.cc:main:17##
+2015-07-30 15:03:07,551: WARN  :hello,world ##test_log.cc:main:18##
+2015-07-30 15:03:07,552: INFO  :hello,world ##test_log.cc:main:19##
+2015-07-30 15:03:07,553: DEBUG  :hello,world ##test_log.cc:main:20##
+2015-07-30 15:03:07,554: ERROR  :hello,world! ##func.cc:func:17##
